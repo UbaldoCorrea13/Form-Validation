@@ -3,7 +3,7 @@
 
 <h1 align="center">Form Validation</h1>
 
-### 🏠 [Homepage](https://github.com/UbaldoCorrea13/Presentation-card#readme)
+### 🏠 [Homepage](https://github.com/UbaldoCorrea13)
 
 ## 👨🏾‍💻 Techs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
